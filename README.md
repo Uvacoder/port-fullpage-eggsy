@@ -1,5 +1,5 @@
 # ✨ Fullpage Portfolio
-
+--
 Hey there! Thank you for checking out this project. This is a very basic website boilerplate/template (or however you want to call it) that you can use as an example creating yourself a portfolio website. Nice UI, easily configurable options and more!
 
 ![first-page](./images/first-page.png)
